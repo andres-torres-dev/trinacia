@@ -1,0 +1,50 @@
+{
+    "data": [
+      {
+        "access_token": "EAAHu3c2xquQBAJ3fU0ZAjo4E3BEAn5AaBZA37KlswrUMMAZAuTkWGmwMHfkljacanwUhRQT8bL7o0FbVUBltTjraXic9rTzOZB7ZAIqa6MVshlOjOstaIfs315MZBnfvk3ub24VtzHD4ITpfMSWS2woo4q0ZBDu9zPObq96WQWBGPO3NVaaApgPNR9SybcR9MyPnFxcwieVK27OrxskVax8",
+        "category": "Accessories",
+        "category_list": [
+          {
+            "id": "185127444860544",
+            "name": "Accessories"
+          }
+        ],
+        "name": "The gossip corner",
+        "id": "101564201278325",
+        "tasks": [
+          "ANALYZE",
+          "ADVERTISE",
+          "MESSAGING",
+          "MODERATE",
+          "CREATE_CONTENT",
+          "MANAGE"
+        ]
+      },
+      {
+        "access_token": "EAAHu3c2xquQBAC2ZARBNcwSw4xZBApqAjsLgIeROCSgfxut1cXEtCYbRCyKVeKNdPKZBzkZCDwlUT0j50oWTFRweE48SmN5RZCp4DUZAFxcQlZCUNJSzDCtji8ldfqrfiMjWkwBzzfExddhhoeEETQ5OJniMMA8mkC85zJR4isYkmVidGL7Cwm0mFfISFEWuuRNZBbwfZANnkYaV7lqZAR4TYw",
+        "category": "Food Delivery Service",
+        "category_list": [
+          {
+            "id": "1802051720039034",
+            "name": "Food Delivery Service"
+          }
+        ],
+        "name": "Ignis Cuisine",
+        "id": "694235647641117",
+        "tasks": [
+          "ANALYZE",
+          "ADVERTISE",
+          "MESSAGING",
+          "MODERATE",
+          "CREATE_CONTENT",
+          "MANAGE"
+        ]
+      }
+    ],
+    "paging": {
+      "cursors": {
+        "before": "MTAxNTY0MjAxMjc4MzI1",
+        "after": "Njk0MjM1NjQ3NjQxMTE3"
+      }
+    }
+}
